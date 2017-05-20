@@ -1,0 +1,13 @@
+c:\users\sam\documents\visual studio 2010\Projects\MonitorDesk\MonitorDesk\bin\Debug\MonitorDesk.exe
+c:\users\sam\documents\visual studio 2010\Projects\MonitorDesk\MonitorDesk\bin\Debug\MonitorDesk.pdb
+c:\users\sam\documents\visual studio 2010\Projects\MonitorDesk\MonitorDesk\bin\Debug\MonitorDesk.xml
+c:\users\sam\documents\visual studio 2010\Projects\MonitorDesk\MonitorDesk\obj\x86\Debug\MonitorDesk.Form1.resources
+c:\users\sam\documents\visual studio 2010\Projects\MonitorDesk\MonitorDesk\obj\x86\Debug\MonitorDesk.Resources.resources
+c:\users\sam\documents\visual studio 2010\Projects\MonitorDesk\MonitorDesk\obj\x86\Debug\MonitorDesk.vbproj.GenerateResource.Cache
+c:\users\sam\documents\visual studio 2010\Projects\MonitorDesk\MonitorDesk\obj\x86\Debug\MonitorDesk.exe
+c:\users\sam\documents\visual studio 2010\Projects\MonitorDesk\MonitorDesk\obj\x86\Debug\MonitorDesk.xml
+c:\users\sam\documents\visual studio 2010\Projects\MonitorDesk\MonitorDesk\obj\x86\Debug\MonitorDesk.pdb
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\MonitorDesk\MonitorDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\MonitorDesk\MonitorDesk\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\MonitorDesk\MonitorDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sam\Documents\Visual Studio 2010\Projects\MonitorDesk\MonitorDesk\obj\x86\Debug\MonitorDesk.vbprojResolveAssemblyReference.cache
